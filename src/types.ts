@@ -1,4 +1,4 @@
 export type DraftToken = {
-  scale: { [key: string]: any }
+  values: { [key: string]: any }
   propName: { [key: string]: string }
 }

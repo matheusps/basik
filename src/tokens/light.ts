@@ -1,7 +1,7 @@
 import { DraftToken } from '../types'
 
 export const bgTokens: DraftToken = {
-  scale: {
+  values: {
     body: '#ffffff',
     base: '#efefef',
     alt: '#f7f7f7',
@@ -13,7 +13,7 @@ export const bgTokens: DraftToken = {
 }
 
 export const colorTokens: DraftToken = {
-  scale: {
+  values: {
     base: '#363636',
     baseInverted: '#000000',
     placeholder: '#949494',
